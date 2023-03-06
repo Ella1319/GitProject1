@@ -1,0 +1,9 @@
+
+
+Xpath syntaxes:
+
+1. //tagName[@attribute='value']
+
+2. //tagName[contains(@attribute,'value')]
+
+3. //tagName[text()='text']
