@@ -7,3 +7,6 @@ Xpath syntaxes:
 2. //tagName[contains(@attribute,'value')]
 
 3. //tagName[text()='text']
+
+
+I'll be using relative xpath
